@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/m1cypher/Year_end_analysis">
+  <a href="https://github.com/m1cypher/Year-end-analysis">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,14 +38,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/m1cypher/Year_end_analysis"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/m1cypher/Year-end-analysis"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/m1cypher/Year_end_analysis">View Demo</a>
+    <a href="https://github.com/m1cypher/Year-end-analysis">View Demo</a>
     ·
-    <a href="https://github.com/m1cypher/Year_end_analysis/issues">Report Bug</a>
+    <a href="https://github.com/m1cypher/Year-end-analysis/issues">Report Bug</a>
     ·
-    <a href="https://github.com/m1cypher/Year_end_analysis/issues">Request Feature</a>
+    <a href="https://github.com/m1cypher/Year-end-analysis/issues">Request Feature</a>
   </p>
 </div>
 
@@ -111,7 +111,7 @@ This is a personal project that will cover my personal notes from [Obsidian](htt
 - [ ] Insert data into Jupyter
 - [ ] Display data as needed
 
-See the [open issues](https://github.com/m1cypher/Year_end_analysis/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/m1cypher/Year-end-analysis/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -149,7 +149,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@mimircyber](https://twitter.com/mimircyber) - info@mimircyber.com
 
-Project Link: [https://github.com/m1cypher/Year_end_analysis](https://github.com/m1cypher/Year_end_analysis)
+Project Link: [https://github.com/m1cypher/Year-end-analysis](https://github.com/m1cypher/Year-end-analysis)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -167,16 +167,16 @@ Project Link: [https://github.com/m1cypher/Year_end_analysis](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/m1cypher/Year_end_analysis.svg?style=for-the-badge
-[contributors-url]: https://github.com/m1cypher/Year_end_analysis/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/m1cypher/Year_end_analysis.svg?style=for-the-badge
-[forks-url]: https://github.com/m1cypher/Year_end_analysis/network/members
-[stars-shield]: https://img.shields.io/github/stars/m1cypher/Year_end_analysis.svg?style=for-the-badge
-[stars-url]: https://github.com/m1cypher/Year_end_analysis/stargazers
-[issues-shield]: https://img.shields.io/github/issues/m1cypher/Year_end_analysis.svg?style=for-the-badge
-[issues-url]: https://github.com/m1cypher/Year_end_analysis/issues
-[license-shield]: https://img.shields.io/github/license/m1cypher/Year_end_analysis.svg?style=for-the-badge
-[license-url]: https://github.com/m1cypher/Year_end_analysis/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/m1cypher/Year-end-analysis.svg?style=for-the-badge
+[contributors-url]: https://github.com/m1cypher/Year-end-analysis/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/m1cypher/Year-end-analysis.svg?style=for-the-badge
+[forks-url]: https://github.com/m1cypher/Year-end-analysis/network/members
+[stars-shield]: https://img.shields.io/github/stars/m1cypher/Year-end-analysis.svg?style=for-the-badge
+[stars-url]: https://github.com/m1cypher/Year-end-analysis/stargazers
+[issues-shield]: https://img.shields.io/github/issues/m1cypher/Year-end-analysis.svg?style=for-the-badge
+[issues-url]: https://github.com/m1cypher/Year-end-analysis/issues
+[license-shield]: https://img.shields.io/github/license/m1cypher/Year-end-analysis.svg?style=for-the-badge
+[license-url]: https://github.com/m1cypher/Year-end-analysis/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/garrett-e-boyd
 [product-screenshot]: images/screenshot.png
