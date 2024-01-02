@@ -1,14 +1,3 @@
-<div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -82,9 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-As I have build, rebuilt, and expanded my homelab, I always wanted a better way to monitor SSH traffic and restrict it. So I built these bastion host SSH script. You have 3 different scripts, the first will create a new user of your choice on your bastion host, install Google PAM for MFA, and then lockdown SSH to that user. The second script is the SSH lockdown for the remote host. The last one will be added to the ~/.bashrc at the end to restrict the terminal access
+This is a personal project that will cover my personal notes from [Obsidian](https://obsidian.md) and the time keep application [Timeular](https://https://timeular.com/).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,16 +79,20 @@ As I have build, rebuilt, and expanded my homelab, I always wanted a better way 
 
 ### Built With
 
-* Bash
+* Python
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Background
+## Required Information
 
-This is a personal project that will cover my personal notes from [Obsidian](https://obsidian.md) and the time keep application [Timeular](https://https://timeular.com/).
+API Key and Secret from Timeular
+
+Obsidian Frontmatter (Now called properties) information.
+
+
 
 <!-- ROADMAP -->
 ## Roadmap
