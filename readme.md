@@ -88,9 +88,9 @@ This is a personal project that will cover my personal notes from [Obsidian](htt
 <!-- GETTING STARTED -->
 ## Required Information
 
-API Key and Secret from Timeular
-
-Obsidian Frontmatter (Now called properties) information.
+- API Key and Secret from Timeular for the Token
+  - This does require at least a personal pro account as of late 2023
+- Obsidian Frontmatter (Now called properties) information.
 
 
 
