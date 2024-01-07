@@ -22,7 +22,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Bastion Host Script</h3>
+<h3 align="center">Year End Analysis</h3>
 
   <p align="center">
     project_description
@@ -71,7 +71,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a personal project that will cover my personal notes from [Obsidian](https://obsidian.md) and the time keep application [Timeular](https://https://timeular.com/).
+This is a personal project that will cover my personal notes from [Obsidian](https://obsidian.md) and the time keep application [Timeular](https://https://timeular.com/). I wanted to be able to pull my own statisctics and create my own graphs for Timeular that they already provide as well as chart out some of my daily journal stats.
+
+<img src="images/timeular summary.png" alt="Timeular Summary">
+<img src="images/timeular summary per month.png" alt="Timeular Summary per month">
+<img src="images/timeular summary per tag.png" alt="Timeular Summary per tag">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -79,7 +83,8 @@ This is a personal project that will cover my personal notes from [Obsidian](htt
 
 ### Built With
 
-* Python
+* [Python](https://www.python.org/)
+* [Jupyter](https://jupyter.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -88,18 +93,73 @@ This is a personal project that will cover my personal notes from [Obsidian](htt
 <!-- GETTING STARTED -->
 ## Required Information
 
-- API Key and Secret from Timeular for the Token
+- API Key and Secret from [Timeular](https://https://timeular.com/) for the Token
   - This does require at least a personal pro account as of late 2023
-- Obsidian Frontmatter (Now called properties) information.
+  - Need the ability to export data (Stupid paywall if you have API access IMO)
+- [Obsidian](https://obsidian.md) frontmatter (Now called properties) information.
+
+## Prerequisites
+This is an example of how to list things you need to use the software and how to install them.
+
+DotEnv
+```sh
+pip install python-dotenv
+```
+Plotly
+```sh
+pip install plotly
+```
+Matplotlib
+```sh
+pip install matplotlib
+```
+FrontMatter
+```sh
+pip install python-frontmatter
+```
+Jupyter
+```sh
+pip install jupyter
+```
+
+## Installation
+Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
+
+1. Get your Timeular API Key at https://app.timeular.com/#/settings/account or on the App itself and scroll down to the "API" section
+
+2. Clone the repo
+```sh
+git clone https://github.com/m1cypher/Year-end-analysis.git
+```
+
+3. Install Python Modules listed above
+
+4. Execute Jupyter 
+```sh
+jupyter notebook
+``` 
+*NOTE* You can either create a .env file to add the API information or just go through the prompts at the beginning of the note to have it all placed in for you. If a ".env" is already created, it will skip those prompts.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+Usage
+You would use this to automate the create of yearly stats in your life, assuming you have been collecting them. Maybe post them to r/dataisbeautiful!
+
+For more examples, please refer to the [Documentation](https://github.com/m1cypher/Year-end-analysis/wiki)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Pull of data from Timeular
-- [ ] Pull data from Obsidian
-- [ ] Insert data into Jupyter
+- [X] Pull of data from Timeular
+- [X] Pull data from Obsidian
+- [X] Insert data into Jupyter
 - [ ] Display data as needed
 
 See the [open issues](https://github.com/m1cypher/Year-end-analysis/issues) for a full list of proposed features (and known issues).
