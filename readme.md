@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/m1cypher/Year-end-analysis">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="240" height="240">
   </a>
 
 <h3 align="center">Year End Analysis</h3>
@@ -160,7 +160,7 @@ For more examples, please refer to the [Documentation](https://github.com/m1cyph
 - [X] Pull of data from Timeular
 - [X] Pull data from Obsidian
 - [X] Insert data into Jupyter
-- [ ] Display data as needed
+- [X] Display data as desired
 
 See the [open issues](https://github.com/m1cypher/Year-end-analysis/issues) for a full list of proposed features (and known issues).
 
