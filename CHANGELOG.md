@@ -1,7 +1,7 @@
 ## v0.5.0
 ### Added or Changed
 - Added a year_end_analysis.py rather than jupyter just to pull the data quicker, however you can still do it all in Jupyter.
-- Jupyter notebook now does a sunburt for timeular data off the "Off Work" space ignoring all the "Work" space to ensure no sensitive data is released (Nothing other than client names would be in jeopardy, but don't want those out either)
+- Jupyter notebook now does a sunburt for timeular data off the "Off Work" space ignoring all the "Work" space
 - Added logo
 - Added variable for daily journal path
 - Updated Readme
