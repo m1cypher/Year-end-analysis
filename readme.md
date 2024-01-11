@@ -71,6 +71,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+In the year 2023, I wanted to keep track of what I did with my year, and what I did at my desk. So I coupled the time keeping I needed to do for my day job along with what I did after work. I was also inspired by [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/comments/193qx1v/2600_hours_at_my_desk_in_2023_with_26_lbs_lost/). 
+
 This is a personal project that will cover my personal notes from [Obsidian](https://obsidian.md) and the time keep application [Timeular](https://https://timeular.com/). I wanted to be able to pull my own statisctics and create my own graphs for Timeular that they already provide as well as chart out some of my daily journal stats.
 
 <img src="images/timeular summary.png" alt="Timeular Summary">
