@@ -73,7 +73,7 @@
 
 In the year 2023, I wanted to keep track of what I did with my year, and what I did at my desk. So I coupled the time keeping I needed to do for my day job along with what I did after work. I was also inspired by [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/comments/193qx1v/2600_hours_at_my_desk_in_2023_with_26_lbs_lost/). 
 
-This is a personal project that will cover my personal notes from [Obsidian](https://obsidian.md) and the time keep application [Timeular](https://https://timeular.com/). I wanted to be able to pull my own statisctics and create my own graphs for Timeular that they already provide as well as chart out some of my daily journal stats.
+This is a personal project that will cover my personal notes from [Obsidian](https://obsidian.md) and the time keep application [Timeular](https://timeular.com/). I wanted to be able to pull my own statisctics and create my own graphs for Timeular that they already provide as well as chart out some of my daily journal stats.
 
 <img src="images/timeular summary.png" alt="Timeular Summary">
 <img src="images/timeular summary per month.png" alt="Timeular Summary per month">
@@ -95,7 +95,7 @@ This is a personal project that will cover my personal notes from [Obsidian](htt
 <!-- GETTING STARTED -->
 ## Required Information
 
-- API Key and Secret from [Timeular](https://https://timeular.com/) for the Token
+- API Key and Secret from [Timeular](https://timeular.com/) for the Token
   - This does require at least a personal pro account as of late 2023
   - Need the ability to export data (Stupid paywall if you have API access IMO)
 - [Obsidian](https://obsidian.md) frontmatter (Now called properties) information.
